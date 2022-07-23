@@ -1,0 +1,30 @@
+header{
+    background-color: rgb(253, 188, 9);
+}
+.logo{
+    background-color: rgb(225, 73, 43);
+}
+
+body{
+    background-color: beige;
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+    text-shadow: 2px 4px 2px #333;
+}
+nav{
+    text-decoration: none;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+    
+}
+nav a:hover{
+   color: rgb(249, 3, 212);
+   font-size: 30px;
+    transition: all 0.5s;
+}
+.footer{
+    text-align: center;
+}
